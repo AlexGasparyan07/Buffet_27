@@ -11,7 +11,7 @@ class error {
 		double num1 = (12.2);
 		double num2 = (14.3);
 		double answer = 0;
-		answer = (num1 * nm2 + answer);
+		answer = (num1 * num2 + answer);
 		
 		System.out.println(answer);
 		
